@@ -29,7 +29,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/yourusername/tool-ban-unban-telegram-username.git
+git clone https://github.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username.git
 Install requirements:
 
 Bash
