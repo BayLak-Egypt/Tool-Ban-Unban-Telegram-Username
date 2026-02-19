@@ -1,5 +1,6 @@
-![Video Preview](https://github.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username/blob/main/learn.mp4)
-
+<video src="https://raw.githubusercontent.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username/refs/heads/main/learn.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
 🛠️ Tool-Ban-Unban-Telegram-Username
 Tool-Ban-Unban-Telegram-Username is a Python/Selenium suite for automating Telegram support forms. It features bulk data cycling (emails/names), dynamic JS template injection, and smart CAPTCHA detection. Efficiently manage ban reports or unban appeals via a CLI with automated form-filling and manual verification bypass.
 
