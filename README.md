@@ -1,5 +1,3 @@
-[Video Name](https://raw.githubusercontent.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username/refs/heads/main/learn.mp4)
-
 ![Video Preview](https://raw.githubusercontent.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username/refs/heads/main/learn.mp4)
 
 🛠️ Tool-Ban-Unban-Telegram-Username
