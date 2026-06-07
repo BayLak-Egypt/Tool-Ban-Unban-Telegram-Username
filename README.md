@@ -48,8 +48,7 @@ Solve the CAPTCHA manually when the browser opens.
 
 The script will handle the rest!
 
-***👨‍💻 Developer Info***
-***Dev:*** **BayLak-Egypt**
+***👨‍💻 Developer*** **BayLak-Egypt**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Baylaks-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Baylaks)
 [![Telegram Channel](https://img.shields.io/badge/Channel-@BayLakYT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BayLakYT)
