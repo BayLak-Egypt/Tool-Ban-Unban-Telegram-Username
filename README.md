@@ -11,7 +11,7 @@
       </a>
     </td>
 
-is a Python/Selenium suite for automating Telegram support forms. It features bulk data cycling (emails/names), dynamic JS template injection, and smart CAPTCHA detection. Efficiently manage ban reports or unban appeals via a CLI with automated form-filling and manual verification bypass.
+is a Python/Selenium suite for automating Telegram support forms. It features bulk data cycling (emails/names), dynamic JS template injection, and smart **CAPTCHA detection.** Efficiently manage ban reports or unban appeals via a CLI with automated form-filling and manual verification bypass.
 
 ***📝 Description***
 This tool automates the process of submitting forms to Telegram support. It bridges the gap between massive data entry and human verification. It automatically fills in user details (emails, names, phones) and waits for you to solve the **CAPTCHA**. Once solved, it detects the completion and submits the form instantly.
