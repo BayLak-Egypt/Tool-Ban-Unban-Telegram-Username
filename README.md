@@ -49,12 +49,10 @@ Solve the CAPTCHA manually when the browser opens.
 The script will handle the rest!
 
 ***👨‍💻 Developer Info***
-Dev: **BayLak-Egypt**
+***Dev:*** **BayLak-Egypt**
 
+***Telegram:*** **@Baylaks**
 ***My Channel Telegram:*** **@BayLakYT**
+**Release Date: 2026/02/19**
 
-Telegram: @Baylaks
-
-Release Date: 2026/02/19
-
-Disclaimer: This tool is for educational purposes only. The developer is not responsible for any misuse.
+**Disclaimer: This tool is for educational purposes only. The developer is not responsible for any misuse.**
