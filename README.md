@@ -51,8 +51,14 @@ The script will handle the rest!
 ***👨‍💻 Developer Info***
 ***Dev:*** **BayLak-Egypt**
 
-***Telegram:*** **@Baylaks**
-***My Channel Telegram:*** **@BayLakYT**
+[![Telegram](https://img.shields.io/badge/Telegram-@Baylaks-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Baylaks)
+[![Telegram Channel](https://img.shields.io/badge/Channel-@BayLakYT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BayLakYT)
+[![Youtube](https://img.shields.io/badge/youtube-baylak--egypt-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@baylak-egypt)
+[![Tiktok](https://img.shields.io/badge/tiktok-baylakeg-000000?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.tiktok.com/@baylakeg)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-baylakeg-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=4915510391781&text=hello&type=phone_number&app_absent=0)
+[![Fiverr](https://img.shields.io/badge/Fiverr-baylakeg-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/baylakeg)
+
+
 **Release Date: 2026/02/19**
 
 **Disclaimer: This tool is for educational purposes only. The developer is not responsible for any misuse.**
