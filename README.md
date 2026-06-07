@@ -1,4 +1,4 @@
-![Video Preview](https://raw.githubusercontent.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username/refs/heads/main/learn.mp4)
+<img src="learn.gif" width="1000">
 
 
  <td align="center">
