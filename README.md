@@ -39,7 +39,7 @@ data/: Directory for .txt files (emails, names, phone numbers).
 ***🚀 Installation***
 Clone the repository:
 ```
-git clone https://github.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username.git
+git clone https://github.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username.git && cd Tool-Ban-Unban-Telegram-Username
 ```
 Install requirements:
 ```
