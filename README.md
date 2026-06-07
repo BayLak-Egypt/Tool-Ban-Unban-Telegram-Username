@@ -28,24 +28,21 @@ data/: Directory for .txt files (emails, names, phone numbers).
 
 🚀 Installation
 Clone the repository:
-
-Bash
-
+```
 git clone https://github.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username.git
+```
 Install requirements:
-
-Bash
-
+```
 pip install selenium
+```
 Configure Data:
 Add your data to email-rd.txt, full-name-rd.txt, and phone-number-rd.txt.
 
 🚦 Usage
 Run the script:
-
-Bash
-
-python main.py
+```
+python3 main.py
+```
 Select Task 1 for targeting a specific username or Task 2 for personal account recovery.
 
 Solve the CAPTCHA manually when the browser opens.
