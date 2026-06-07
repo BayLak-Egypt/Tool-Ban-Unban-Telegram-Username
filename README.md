@@ -2,12 +2,12 @@
 
 
  <td align="center">
-      <a href="https://github.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username v1.0">
+      <a href="https://github.com/BayLak-Egypt/Tool-Ban-Unban-Telegram-Username">
         <img src="logo.png" width="20" height="20" />
       </a>
     </td>
  <td>
-        <strong>  Tool-Ban-Unban-Telegram-Username</strong>
+        <strong>  Tool-Ban-Unban-Telegram-Username V1.0</strong>
       </a>
     </td>
 
